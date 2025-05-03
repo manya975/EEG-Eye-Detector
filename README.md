@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/cf619ec4-943d-4686-b82d-eba05f78fe17)
 ![image](https://github.com/user-attachments/assets/2148356b-4759-472d-b89a-d6a8a52dd48f)
 
-<h2>WORKING OF PROJECT:</h2>
+<h2>Working of the project:</h2>
 1)	EEG Data Capture: EEG data is fetched for different lobes and formatted into compatible inputs.
 2)	Data Processing:
   •	Software Implementation:
